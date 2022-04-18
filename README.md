@@ -1,1 +1,1 @@
-# Qazaqchain
+# Qazaqchain-kit
